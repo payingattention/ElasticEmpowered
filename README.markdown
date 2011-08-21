@@ -1,5 +1,4 @@
 ##sharing source files in open source formats. #elasticcss #elasticempowered
-- - -
 * * * 
 ###(ccc) completely creative commons
 
