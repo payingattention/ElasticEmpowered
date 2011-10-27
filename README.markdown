@@ -1,6 +1,6 @@
-##sharing source files in open source formats. #elasticcss #elasticempowered
+##sharing source files in open source formats. #elasticcss #elasticempowered #elasticCSSempowered
 
 ###(ccc) completely creative commons
 
-*like?*  
-<sup>+ If you could help organize, speak freely. Let us advance together.</sup>  
+*Like?*  
+<sup>+ Help organize, speak up. Let us advance..</sup>  
